@@ -14,6 +14,7 @@
 - [60-hardware-hacking.pdf](60-hardware-hacking.pdf)
 - [71-killing-in-the-name-of-ebpf.pdf](71-killing-in-the-name-of-ebpf.pdf)
 - [8-zellij-tmux-on-steroids.pdf](8-zellij-tmux-on-steroids.pdf)
+- [9-vom-leben-und-sterben-einer-software.pdf](9-vom-leben-und-sterben-einer-software.pdf)
 - [9-was-ist-eigentlich-dieses-mastodon-.pdf](9-was-ist-eigentlich-dieses-mastodon-.pdf)
 - [93-neues-in-debian-12-bookworm-.pdf](93-neues-in-debian-12-bookworm-.pdf)
 - [98-freifunk-als-veranstaltungsnetz.pdf](98-freifunk-als-veranstaltungsnetz.pdf)
