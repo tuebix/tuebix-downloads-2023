@@ -2,7 +2,6 @@
 
 ## Folien
 
-- [1-typische-schwachstellen-von-heimnetz-routern.pdf](1-typische-schwachstellen-von-heimnetz-routern.pdf)
 - [100-nix-os-ein-berblick.pdf](100-nix-os-ein-berblick.pdf)
 - [101-an-introduction-into-ebpf.pdf](101-an-introduction-into-ebpf.pdf)
 - [102-vorstellung-fablab.pdf](102-vorstellung-fablab.pdf)
@@ -10,7 +9,13 @@
 - [15-prozedurales-3d-design-mit-openscad-und-python-sdf.pdf](15-prozedurales-3d-design-mit-openscad-und-python-sdf.pdf)
 - [16-plaintextaccounting-mit-hledger.pdf](16-plaintextaccounting-mit-hledger.pdf)
 - [18-101-coole-kommandozeilen-werkzeuge.pdf](18-101-coole-kommandozeilen-werkzeuge.pdf)
-- [4-kamerawagen-fr-h0-modelleisenbahn-mit-linux.pdf](4-kamerawagen-fr-h0-modelleisenbahn-mit-linux.pdf)
+- [20-latex-fr-einsteiger.pdf](20-latex-fr-einsteiger.pdf)
+- [23-bildungssysteme-nachhaltig-digitalisieren.pdf](23-bildungssysteme-nachhaltig-digitalisieren.pdf)
+- [31-typische-schwachstellen-von-heimnetz-routern.pdf](31-typische-schwachstellen-von-heimnetz-routern.pdf)
+- [34-kamerawagen-fr-h0-modelleisenbahn-mit-linux.pdf](34-kamerawagen-fr-h0-modelleisenbahn-mit-linux.pdf)
+- [36-embeded-mastodon-datenschutzfreundliches-marketing-arbeiten-an-fderierten-gitea-forgejo.pdf](36-embeded-mastodon-datenschutzfreundliches-marketing-arbeiten-an-fderierten-gitea-forgejo.pdf)
+- [37-lightningc4k.pdf](37-lightningc4k.pdf)
+- [39-vom-leben-und-sterben-einer-software.pdf](39-vom-leben-und-sterben-einer-software.pdf)
 - [41-open-source-ist-fr-viele-informatik-studierende-ein-mysterium.pdf](41-open-source-ist-fr-viele-informatik-studierende-ein-mysterium.pdf)
 - [45-linux-containers-for-hpc-2023-update.pdf](45-linux-containers-for-hpc-2023-update.pdf)
 - [46-x2go-remote-desktops-remote-applications-was-bringt-das-neue-release-kdrive-.pdf](46-x2go-remote-desktops-remote-applications-was-bringt-das-neue-release-kdrive-.pdf)
@@ -23,20 +28,15 @@
 - [55-kaputte-authentifizierung.pdf](55-kaputte-authentifizierung.pdf)
 - [58-die-wirre-welt-der-kleinen-computer.pdf](58-die-wirre-welt-der-kleinen-computer.pdf)
 - [6-ein-freies-schulnetz-.pdf](6-ein-freies-schulnetz-.pdf)
-- [6-embeded-mastodon-datenschutzfreundliches-marketing-arbeiten-an-fderierten-gitea-forgejo.pdf](6-embeded-mastodon-datenschutzfreundliches-marketing-arbeiten-an-fderierten-gitea-forgejo.pdf)
 - [60-hardware-hacking.pdf](60-hardware-hacking.pdf)
-- [7-lightningc4k.pdf](7-lightningc4k.pdf)
 - [7-lpi-exam-701-devops-tools-engineer.pdf](7-lpi-exam-701-devops-tools-engineer.pdf)
 - [71-killing-in-the-name-of-ebpf.pdf](71-killing-in-the-name-of-ebpf.pdf)
 - [8-zellij-tmux-on-steroids.pdf](8-zellij-tmux-on-steroids.pdf)
-- [9-vom-leben-und-sterben-einer-software.pdf](9-vom-leben-und-sterben-einer-software.pdf)
 - [9-was-ist-eigentlich-dieses-mastodon-.pdf](9-was-ist-eigentlich-dieses-mastodon-.pdf)
 - [93-neues-in-debian-12-bookworm-.pdf](93-neues-in-debian-12-bookworm-.pdf)
 - [98-freifunk-als-veranstaltungsnetz.pdf](98-freifunk-als-veranstaltungsnetz.pdf)
 - [hacking-eines-funkthermostats.pdf](hacking-eines-funkthermostats.pdf)
 - [hacking-von-sicheren-usb-sticks-und-usb-festplatten.pdf](hacking-von-sicheren-usb-sticks-und-usb-festplatten.pdf)
-- [latex-fr-einsteiger.pdf](latex-fr-einsteiger.pdf)
-- [ldungssysteme-nachhaltig-digitalisieren.pdf](ldungssysteme-nachhaltig-digitalisieren.pdf)
 
 ## Downloads
 
