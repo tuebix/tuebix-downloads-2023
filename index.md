@@ -15,17 +15,21 @@
 - [34-kamerawagen-fr-h0-modelleisenbahn-mit-linux.pdf](34-kamerawagen-fr-h0-modelleisenbahn-mit-linux.pdf)
 - [36-embeded-mastodon-datenschutzfreundliches-marketing-arbeiten-an-fderierten-gitea-forgejo.pdf](36-embeded-mastodon-datenschutzfreundliches-marketing-arbeiten-an-fderierten-gitea-forgejo.pdf)
 - [37-lightningc4k.pdf](37-lightningc4k.pdf)
+- [38-einstieg-in-linux-kernel-debugging.pdf](38-einstieg-in-linux-kernel-debugging.pdf)
 - [39-vom-leben-und-sterben-einer-software.pdf](39-vom-leben-und-sterben-einer-software.pdf)
 - [41-open-source-ist-fr-viele-informatik-studierende-ein-mysterium.pdf](41-open-source-ist-fr-viele-informatik-studierende-ein-mysterium.pdf)
+- [42-docker-build-alternativen.pdf](42-docker-build-alternativen.pdf)
 - [45-linux-containers-for-hpc-2023-update.pdf](45-linux-containers-for-hpc-2023-update.pdf)
 - [46-x2go-remote-desktops-remote-applications-was-bringt-das-neue-release-kdrive-.pdf](46-x2go-remote-desktops-remote-applications-was-bringt-das-neue-release-kdrive-.pdf)
 - [47-das-grannophone-ein-videotelefon-fr-senioren-und-demenzpatienten.pdf](47-das-grannophone-ein-videotelefon-fr-senioren-und-demenzpatienten.pdf)
 - [48-same-procedure-as-every-year-kommandozeilen-sprechstunde-n-.pdf](48-same-procedure-as-every-year-kommandozeilen-sprechstunde-n-.pdf)
+- [48-same-procedure-as-every-year-kommandozeilen-sprechstunde-n-.shell_history.txt](48-same-procedure-as-every-year-kommandozeilen-sprechstunde-n-.shell_history.txt)
 - [5-git-annex-dateien-synchronisieren-sichern-und-verwalten-fr-poweruser.pdf](5-git-annex-dateien-synchronisieren-sichern-und-verwalten-fr-poweruser.pdf)
 - [50-neues-vom-spielplatz-kubernetes-auf-deinem-smartphone.pdf](50-neues-vom-spielplatz-kubernetes-auf-deinem-smartphone.pdf)
 - [51-kubernetes-wie-die-container-orchestrierung-die-welt-der-webanwendungen-verndert.pdf](51-kubernetes-wie-die-container-orchestrierung-die-welt-der-webanwendungen-verndert.pdf)
 - [52-basteleien-vom-shell-skript-zum-tux-dem-wafer-und-led-lauflicht.pdf](52-basteleien-vom-shell-skript-zum-tux-dem-wafer-und-led-lauflicht.pdf)
 - [55-kaputte-authentifizierung.pdf](55-kaputte-authentifizierung.pdf)
+- [56-identity-management-mit-keycloak.pdf](56-identity-management-mit-keycloak.pdf)
 - [58-die-wirre-welt-der-kleinen-computer.pdf](58-die-wirre-welt-der-kleinen-computer.pdf)
 - [6-ein-freies-schulnetz-.pdf](6-ein-freies-schulnetz-.pdf)
 - [60-hardware-hacking.pdf](60-hardware-hacking.pdf)
@@ -39,6 +43,8 @@
 - [hacking-von-sicheren-usb-sticks-und-usb-festplatten.pdf](hacking-von-sicheren-usb-sticks-und-usb-festplatten.pdf)
 
 ## Downloads
+
+- [40-blitz-einfhrung-in-die-funktionale-programmierung.hs](40-blitz-einfhrung-in-die-funktionale-programmierung.hs)
 
 ## Sonstiges
 

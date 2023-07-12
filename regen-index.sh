@@ -17,10 +17,11 @@ echo -e "\n## Downloads\n" >> index.md
 # Section for everything that a web browser cannot display natively
 
 find -type f ! -empty | xargs git ls-files -z | tr '\0' '\n' | \
-  grep -E "\.(cast|tar.gz|zip)$" | \
+  grep -E "\.(hs|cast|tar.gz|zip)$" | \
   sed -E "s/(.*)/- [\1](\1)/" >> index.md
 
 cat <<EOF >> index.md
+
 ## Sonstiges
 
 ### 📹 Videoaufzeichnungen (externe Links)

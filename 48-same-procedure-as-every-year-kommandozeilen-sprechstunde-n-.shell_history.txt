@@ -1,0 +1,286 @@
+2023-07-01 14:16:57 cd shell-sprechstunde/
+2023-07-01 14:17:13 ll
+2023-07-01 14:17:27 ll *pdf
+2023-07-01 14:17:39 acroread tuebix-2023-shell-sprechstunde.pdf 
+2023-07-01 14:20:40 d
+2023-07-01 14:20:42 j
+2023-07-01 14:21:28 ssh hz
+2023-07-01 14:21:33 ssh-add
+2023-07-01 14:21:39 ssh hz
+2023-07-01 14:21:46 j
+2023-07-01 14:21:58 %
+2023-07-01 14:22:04 d
+2023-07-01 14:22:13 pushd  /tmp/
+2023-07-01 14:22:23 pushd  /usr/src/linux/
+2023-07-01 14:22:25 pwd
+2023-07-01 14:22:45 dirs
+2023-07-01 14:22:49 dirs -v
+2023-07-01 14:23:15 pushd +2
+2023-07-01 14:23:18 dirs -v
+2023-07-01 14:23:23 d
+2023-07-01 14:23:38 p2
+2023-07-01 14:23:41 alias | less
+
+alias p='pushd'
+alias p2='pushd +2'
+alias p3='pushd +3'
+alias p4='pushd +4'
+alias p5='pushd +5'
+alias p6='pushd +6'
+alias p7='pushd +7'
+alias p8='pushd +8'
+alias p9='pushd +9'
+alias p10='pushd +10'
+alias d='dirs -v'
+alias j=jobs
+alias e='emacs -nw'
+alias ll='ls -l'
+
+2023-07-01 14:27:09 alias l1=’ls -p --color=always | less -iXRS’
+2023-07-01 14:27:39 d
+2023-07-01 14:27:40 p
+2023-07-01 14:28:15 e tuebix-2023-shell-sprechstunde.tex ../../elc-2023/slides/elc-2023-strace-slides.tex
+2023-07-01 14:29:17 /usr/local/texlive/2019/bin/x86_64-linux/pdflatex tuebix-2023-shell-sprechstunde.tex 
+2023-07-01 14:29:40 alias l1='ls -p --color=always | less -iXRS'
+2023-07-01 14:29:59 alias l1=’ls -p --color=always | less -iXRS’
+2023-07-01 14:30:38 echo alias l1=’ls -p --color=always | less -iXRS’
+2023-07-01 14:31:01 echo alias l1=’ls 
+2023-07-01 14:31:09 echo alias l1=’ls  | hexdump -C
+2023-07-01 14:31:49 echo alias l1='ls  | hexdump -C
+2023-07-01 14:31:57 echo "alias l1='ls"  | hexdump -C
+2023-07-01 14:32:52 xrandr 
+2023-07-01 14:33:58 xrandr --output HDMI2 --mode 1920x1080
+2023-07-01 14:34:16 j
+2023-07-01 14:34:21 echo "alias l1='ls"  | hexdump -C
+2023-07-01 14:34:52 echo "alias l1='ls"  | hexdump -C 
+2023-07-01 14:34:58 rm pwd
+2023-07-01 14:36:03 pewd
+2023-07-01 14:36:23 history  | grep rm
+2023-07-01 14:36:35 rm pwd
+2023-07-01 14:36:46 history 
+2023-07-01 14:36:59 history  | wc
+2023-07-01 14:37:07 set | grep HIST
+2023-07-01 14:37:20 ll ~/.bash_history
+2023-07-01 14:38:34 history  > history.txt
+2023-07-01 14:38:37 less history.txt
+2023-07-01 14:39:52 ll ../../elc-2023/*/H?
+2023-07-01 14:39:56 ll ../../elc-2023/*/*/H?
+2023-07-01 14:40:16 pushd  ../../elc-2023/rust-esp32/fearless-embedded-rust/
+2023-07-01 14:40:36 history > H4
+2023-07-01 14:40:39 ll H?
+2023-07-01 14:40:42 cat H4
+2023-07-01 14:41:07 p
+2023-07-01 14:41:09 j
+2023-07-01 14:41:12 %
+2023-07-01 14:41:27 alias l1='ls -p --color=always | less -iXRS'
+2023-07-01 14:42:01 less /etc/passwd
+2023-07-01 14:42:33 less /bin/ls
+2023-07-01 14:46:41 alias l1='ls -p --color=always | less -iXRS'
+2023-07-01 14:46:45 ll ~
+2023-07-01 14:46:51 ll ~ | cat -n
+2023-07-01 14:46:59 ll ~ | less
+2023-07-01 14:47:21 alias l1='ls -p --color=always | less -iXRS'
+2023-07-01 14:47:31 l1 
+2023-07-01 14:47:50 alias l1='ls -p --color=always | less -iXS'
+2023-07-01 14:47:55 l1 
+2023-07-01 14:48:01 alias l1='ls -p --color=always | less -i'
+2023-07-01 14:48:03 l1 
+2023-07-01 14:48:10 alias l1='ls -p --color=always | less '
+2023-07-01 14:48:11 l1 
+2023-07-01 14:48:21 env | grep LESS
+2023-07-01 14:48:51 LESS= l1 
+2023-07-01 14:49:05 ( export LESS= ;  l1 )
+2023-07-01 14:49:31 ll
+2023-07-01 14:49:38 ls
+2023-07-01 14:49:41 ( export LESS= ;  l1 )
+2023-07-01 14:50:22 alias l1='ls -p --color=always | less -R'
+2023-07-01 14:50:26 ( export LESS= ;  l1 )
+2023-07-01 14:50:39 alias l1='ls -p --color=always | less -iXRS'
+2023-07-01 14:50:41 l1
+2023-07-01 14:50:49 ls /tmp/
+2023-07-01 14:50:53 ls -l /tmp/
+2023-07-01 14:51:03 l1 /tmp/
+2023-07-01 14:51:11 l1 -l /tmp/
+2023-07-01 14:51:38 ls -p --color=always | less -iXRS /etc/passwd
+2023-07-01 14:51:51 ls -p --color=always | less -iXRS /tmp/
+2023-07-01 14:52:31 help alias
+2023-07-01 14:52:55 l2() { ls -p --color=always | less -iXRS } 
+2023-07-01 14:53:03 l2() { ls -p --color=always | less -iXRS ; } 
+2023-07-01 14:53:36 l2 /tmp/
+2023-07-01 14:54:13 l2() { ls -p --color=always $1 | less -iXRS ; } 
+2023-07-01 14:54:15 l2 /tmp/
+2023-07-01 14:54:40 l2 -l /tmp/
+2023-07-01 14:54:56 l2() { ls -p --color=always $* | less -iXRS ; } 
+2023-07-01 14:54:58 l2 -l /tmp/
+2023-07-01 14:55:35 touch '*e*'
+2023-07-01 14:55:36 ll
+2023-07-01 14:56:04 touch '*e*.sh'
+2023-07-01 14:56:19 l2 -l *sh
+2023-07-01 14:56:58 l2() { ls -p --color=always "$@" | less -iXRS ; } 
+2023-07-01 14:57:02 touch '*e*.sh'
+2023-07-01 14:57:25 l2 -l 
+2023-07-01 14:57:28 l2 -l  *sh
+2023-07-01 14:57:47 touch "Hallo Tuebix"
+2023-07-01 14:57:50 l2 -l 
+2023-07-01 14:58:04 l2() { ls -p --color=always $* | less -iXRS ; } 
+2023-07-01 14:58:08 l2 H*
+2023-07-01 14:58:15 l2 -l H*
+2023-07-01 14:58:44 l2() { ls -p --color=always "$*" | less -iXRS ; } 
+2023-07-01 14:58:45 l2 -l H*
+2023-07-01 14:58:59 ls
+2023-07-01 14:59:15 l2 -l -- H*
+2023-07-01 14:59:28 echo $$
+2023-07-01 15:04:33 hal
+2023-07-01 15:05:12 l2 -l -- H*
+2023-07-01 15:05:28 pwd
+2023-07-01 15:06:00 echo $$
+2023-07-01 15:07:32 pwd
+2023-07-01 15:07:39 echo Hallo
+2023-07-01 15:09:58 /bin/echo Hallo
+2023-07-01 15:10:07 /bin/pwd
+2023-07-01 15:10:48 /bin/echo Hallo Tuebix
+2023-07-01 15:11:02 /bin/echo H*
+2023-07-01 15:11:32 l2  H*
+2023-07-01 15:11:58 type l2
+2023-07-01 15:12:08 l2() { ls -p --color=always $* | less -iXRS ; } 
+2023-07-01 15:12:11 l2  H*
+2023-07-01 15:12:40 l2() { ls -p --color=always "$@" | less -iXRS ; } 
+2023-07-01 15:12:43 l2 /tmp/
+2023-07-01 15:12:51 history  | grep l2
+2023-07-01 15:13:04 l2 -l -- H*
+2023-07-01 15:13:08 l2() { ls -p --color=always $* | less -iXRS ; } 
+2023-07-01 15:13:09 l2 -l -- H*
+2023-07-01 15:13:13 l2() { ls -p --color=always "$@" | less -iXRS ; } 
+2023-07-01 15:13:17 l2() { ls -p --color=always "$2" | less -iXRS ; } 
+2023-07-01 15:13:21 l2() { ls -p --color=always "$*" | less -iXRS ; } 
+2023-07-01 15:13:22 l2 -l -- H*
+2023-07-01 15:15:35 l2() { ls -p --color=always $* | less -iXRS ; } 
+2023-07-01 15:15:39 l2 -l -- H*
+2023-07-01 15:15:55 l2 -l -- -HalloALLO H*
+2023-07-01 15:16:16 l2 -l  -HalloALLO H*
+2023-07-01 15:16:29 l2 -l  --HalloALLO H*
+2023-07-01 15:17:35 type -a l2
+2023-07-01 15:17:47 alias l2='echo alias'
+2023-07-01 15:17:48 l2
+2023-07-01 15:17:51 type -a l2
+2023-07-01 15:18:06 \l2
+2023-07-01 15:18:13 type -a \l2
+2023-07-01 15:18:29 type -a ls
+2023-07-01 15:18:36 ls
+2023-07-01 15:19:05 \ls
+2023-07-01 15:19:28 ll
+2023-07-01 15:19:42 ll \'*
+2023-07-01 15:19:49 ll *H*
+2023-07-01 15:19:54 ll \'*
+2023-07-01 15:19:59 ll *H*
+2023-07-01 15:20:08 ls *H* | cat
+2023-07-01 15:20:18 ll *H*
+2023-07-01 15:20:37 ll *\'*
+2023-07-01 15:20:50 ll *\'* | cat
+2023-07-01 15:21:21 man zsh
+2023-07-01 15:22:03 pwd
+2023-07-01 15:23:43 j
+2023-07-01 15:28:39 echo $RANDOM 
+2023-07-01 15:28:58 man bahs
+2023-07-01 15:29:00 man bash
+2023-07-01 15:29:27 echo $SRANDOM
+2023-07-01 15:29:56 echo $[ $RANDOM % 49 ]
+2023-07-01 15:30:11 for n in {1..6} ; do echo $[ $RANDOM % 49 ] ; done
+2023-07-01 15:30:15 for n in {1..6} ; do echo $[ $RANDOM % 49 ] ; done | sort -n
+2023-07-01 15:31:00 for n in {1..6} ; do echo $[ RANDOM % 49 + 1 ] ; done | sort -n
+2023-07-01 15:31:29 p ~/photo2
+2023-07-01 15:31:32 ll rossmann/
+2023-07-01 15:31:34 cd rossmann/
+2023-07-01 15:31:35 ls
+2023-07-01 15:31:36 cd ..
+2023-07-01 15:31:41 find -name Anta\*
+2023-07-01 15:32:12 cd ./rot2/Antarktis-2014
+2023-07-01 15:32:13 ll
+2023-07-01 15:32:17 ll */* | wc
+2023-07-01 15:32:38 locate s-dm-1
+2023-07-01 15:32:44 cd /home/harald/HTC_One_mini/x/Pictures/Antarktis-dm-1
+2023-07-01 15:32:46 p -
+2023-07-01 15:32:46 po
+2023-07-01 15:32:48 ll
+2023-07-01 15:32:50 p /home/harald/HTC_One_mini/x/Pictures/Antarktis-dm-1
+2023-07-01 15:32:52 ls
+2023-07-01 15:33:10 xzgv *
+2023-07-01 15:35:13 bg
+2023-07-01 15:35:14 for n in {1..6} ; do echo $[ RANDOM % 49 + 1 ] ; done | sort -n
+2023-07-01 15:36:10 for n in {1..6} ; do echo $[ RANDOM % 49 + 1 ] ; done | sort -n -u
+2023-07-01 15:36:22 
+2023-07-01 15:36:24 echo $l
+2023-07-01 15:36:31 echo $l | wc -w
+2023-07-01 15:37:30 while true ; do l=$( for n in {1..6} ; do echo $[ RANDOM % 49 + 1 ] ; done | sort -n -u ) ;  w=$( echo $l | wc -w ) ; [ $w = 6 ] && break ; done ; echo $l 
+2023-07-01 15:37:45 while true ; do l=$( for n in {1..6} ; do echo $[ RANDOM % 49 + 1 ] ; done | sort -n -u ) ;  w=$( echo $l | wc -w ) ; [ $w = 5 ] && break ; done ; echo $l 
+2023-07-01 15:38:01 for n in {1..10} ; do while true ; do l=$( for n in {1..6} ; do echo $[ RANDOM % 49 + 1 ] ; done | sort -n -u ) ;  w=$( echo $l | wc -w ) ; [ $w = 5 ] && break ; done ; echo $l  ;done
+2023-07-01 15:38:09 for n in {1..10} ; do while true ; do l=$( for n in {1..6} ; do echo $[ RANDOM % 49 + 1 ] ; done | sort -n -u ) ;  w=$( echo $l | wc -w ) ; [ $w = 4 ] && break ; done ; echo $l  ;done
+2023-07-01 15:38:33 echo $l
+2023-07-01 15:38:40 for n in {1..10} ; do while true ; do l=$( for n in {1..6} ; do echo $[ RANDOM % 49 + 1 ] ; done | sort -n -u ) ;  w=$( echo $l | wc -w ) ; [ $w = 5 ] && break ; done ; echo $l  ;done
+2023-07-01 15:38:45 echo $l
+2023-07-01 15:38:55 set -- Hallo Tuebix
+2023-07-01 15:39:09 echo $1
+2023-07-01 15:39:12 echo $2
+2023-07-01 15:39:14 echo $#
+2023-07-01 15:39:22 set -- Hallo Tuebix foo bar
+2023-07-01 15:39:23 echo $#
+2023-07-01 15:39:50 for n in {1..10} ; do while true ; do l=$( for n in {1..6} ; do echo $[ RANDOM % 49 + 1 ] ; done | sort -n -u ) ;  set -- $l ;  [ $# = 5 ] && break ; done ; echo $l  ;done
+2023-07-01 15:39:55 for n in {1..10} ; do while true ; do l=$( for n in {1..6} ; do echo $[ RANDOM % 49 + 1 ] ; done | sort -n -u ) ;  set -- $l ;  [ $# = 6 ] && break ; done ; echo $l  ;done
+2023-07-01 15:40:46 d
+2023-07-01 15:40:53 p4
+2023-07-01 15:40:54 ll
+2023-07-01 15:41:37 help help
+2023-07-01 15:42:27 help history 
+2023-07-01 15:43:14 ( HISTTIMEFORMAT=%H:%M:%S history )
+2023-07-01 15:43:34 ( HISTTIMEFORMAT="%Y-%m-%d %H:%M:%S " history )
+2023-07-01 15:43:45 ( HISTTIMEFORMAT="%I " history )
+2023-07-01 15:43:51 man strftime
+2023-07-01 15:44:13 date -I
+2023-07-01 15:44:17 date -Im
+2023-07-01 15:44:19 date -Is
+2023-07-01 15:44:27 date -Is | cut -d+ -f1
+2023-07-01 15:44:35 %
+2023-07-01 15:44:59 ( HISTTIMEFORMAT="%F %H:%M:%S " history )
+2023-07-01 15:45:01 man strftime
+2023-07-01 15:45:22 ( HISTTIMEFORMAT="%F %T " history )
+2023-07-01 15:45:36 ( HISTTIMEFORMAT="%F %T " history ) | less
+2023-07-01 15:46:41 dmesg 
+2023-07-01 15:47:12 echo $$
+2023-07-01 15:47:31 man dmesg 
+2023-07-01 15:47:56 uname -a
+2023-07-01 15:48:13 ll /boot/vmlinuz*
+2023-07-01 15:48:28 d
+2023-07-01 15:48:39 p ../..
+2023-07-01 15:48:44 ll slides/*pdf
+2023-07-01 15:48:54 acroread slides/elc-2023-strace-slides.pdf 
+2023-07-01 15:49:11 ll /proc/sys/kernel/yama/ptrace_scope
+2023-07-01 15:49:13 cat /proc/sys/kernel/yama/ptrace_scope
+2023-07-01 15:50:17 sudo sysctl kernel.dmesg_restrict
+2023-07-01 15:50:35 sysctl kernel.dmesg_restrict
+2023-07-01 15:50:43 /usr/sbin/sysctl kernel.dmesg_restrict
+2023-07-01 15:50:56 grep -r dmesg_restrict /etc/sysconfig/
+2023-07-01 15:51:00 sudo grep -r dmesg_restrict /etc/sysconfig/
+2023-07-01 15:51:07 id
+2023-07-01 15:51:16 type -a sudo
+2023-07-01 15:51:26 ll /usr/bin/sudo
+2023-07-01 15:51:30 id
+2023-07-01 15:51:33 sudo -l
+2023-07-01 15:51:50 df /
+2023-07-01 15:52:00 su
+2023-07-01 15:52:14 sudo -s
+2023-07-01 15:52:28 grep nosuid /etc/fstab 
+2023-07-01 15:52:33 df .
+2023-07-01 15:52:51 grep home /proc/mounts 
+2023-07-01 15:52:59 grep suid /proc/mounts 
+2023-07-01 15:53:20 df 
+2023-07-01 15:53:21 df /
+2023-07-01 15:53:27 grep root /proc/mounts 
+2023-07-01 15:53:38 id
+2023-07-01 15:53:42 echo $$
+2023-07-01 15:54:06 /bin/pwd
+2023-07-01 15:54:10 echo $$
+2023-07-01 15:54:40 sudo -s
+2023-07-01 15:55:04 cat /proc/sys/kernel/yama/ptrace_scope
+
+2023-07-02 11:02:38 ( HISTTIMEFORMAT="%F %T " history ) | less
+2023-07-02 11:02:49 ( HISTTIMEFORMAT="%F %T " history ) > history.txt 
